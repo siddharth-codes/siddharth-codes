@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siddharth j
+- 👋 Hi, I’m @siddharth jj
 - 👀 I’m interested in mobile app development using flutter
 - 🌱 I’m currently learning flutter framework
 - 💞️ I’m looking to collaborate on flutter projects
